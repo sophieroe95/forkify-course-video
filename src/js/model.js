@@ -186,5 +186,5 @@ git reset --hard HEAD (if have just added)
 git log - take a look at prev commit
 :q
 git reset --hard idnumber
-git branch - lists branches
+git branch - lists branchesgit 
 git branch new-feature  */
