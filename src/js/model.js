@@ -190,4 +190,6 @@ git branch - lists branchesgit
 git branch new-feature
 git merge new-feature
 git cheat sheet, education.github.com/git-cheat-sheet-education.pdf 
-origin = name of remote branch */
+origin = name of remote branch
+# to make heading
+if want to make repo on git, use readme and .gitignore  */
