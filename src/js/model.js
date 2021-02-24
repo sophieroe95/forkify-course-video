@@ -187,4 +187,6 @@ git log - take a look at prev commit
 :q
 git reset --hard idnumber
 git branch - lists branchesgit 
-git branch new-feature  */
+git branch new-feature
+git merge new-feature
+git cheat sheet, education.github.com/git-cheat-sheet-education.pdf  */
