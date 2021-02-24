@@ -180,4 +180,11 @@ git = version control
 if make a mistake can go back to prvious verions
 git init
 github - store local repo in the cloud
-gitlab, gitbucket also*/
+gitlab, gitbucket also
+git add -A
+git reset --hard HEAD (if have just added)
+git log - take a look at prev commit
+:q
+git reset --hard idnumber
+git branch - lists branches
+git branch new-feature  */
