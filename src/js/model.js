@@ -189,4 +189,5 @@ git reset --hard idnumber
 git branch - lists branchesgit 
 git branch new-feature
 git merge new-feature
-git cheat sheet, education.github.com/git-cheat-sheet-education.pdf  */
+git cheat sheet, education.github.com/git-cheat-sheet-education.pdf 
+origin = name of remote branch */
